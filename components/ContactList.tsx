@@ -63,6 +63,7 @@ const styles = StyleSheet.create({
     fontSize: 24,
     fontWeight: 'bold',
     paddingHorizontal: 8,
+    marginBottom: 8,
   },
   container: {
     paddingHorizontal: 16,
